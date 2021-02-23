@@ -1,0 +1,15 @@
+{
+ "name": "@wcd/AnsuRoutray.lwc-klht0vd1",
+ "version": "0.0.0",
+ "description": "",
+ "license": "ISC",
+ "type": "module",
+ "homepage": "{{ homepage }}",
+ "scripts": {
+  "serve": "wcd-cli serve bdE9LjIK6O3vV73OMUjL --open"
+ },
+ "devDependencies": {
+  "wcd-cli": "latest"
+ },
+ "dependencies": {}
+}
